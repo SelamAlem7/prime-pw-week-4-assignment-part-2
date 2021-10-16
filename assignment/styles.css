@@ -1,0 +1,30 @@
+
+body {
+  background-color: #aaffc3;
+  text-align: center;
+  border: 1rem solid;
+}
+h1 {
+  color: #808000;
+  border: 
+}
+p {
+  color: #e6194B;
+}
+
+
+.info{
+  background-color:#ffe119;
+  color: #800000;
+}
+
+.img{
+  width: 500px;
+}
+
+
+.car{
+  background-color:#000075;
+  color: #f032e6;
+
+}
